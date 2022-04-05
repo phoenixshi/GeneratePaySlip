@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+wYZNg9u8KqehVqzThL574Zjg/3C3Pib/grXufC6iFTXN6igodbaYcK48+aPk4Z14QrXPUZm0mZDeQMNkzdUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rljb\\source\\repos\\Myob_Test\\Myob_Test\\GeneratePaySlip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rljb\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\rljb\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\rljb\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\rljb\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512",
+    "C:\\Users\\rljb\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\rljb\\.nuget\\packages\\system.io.abstractions\\16.1.25\\system.io.abstractions.16.1.25.nupkg.sha512",
+    "C:\\Users\\rljb\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
